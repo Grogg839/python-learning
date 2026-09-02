@@ -1,0 +1,24 @@
+--------------------
+-- Math Operators --
+--------------------
+
+These are all in order of presedence (like BODMAS)
+
+** Exponent --> 2 ** 3 = 8
+% Modulus/remainder --> 22 % 8 = 6
+// Integar division/floored quotient --> 22 // 8 = 2
+/ Division --> 22 / 8 = 2.75
+* Multiplication
++ and - are obvious
+
+----------------
+-- Data Types --
+----------------
+
+Common data types 
+
+Integars: -2, -1, 0, 1, 2, 3, 4, 5
+
+Floating-point numbers: -1.25, -1.0. --0.5, 0.0, 0.5
+
+Strings: 'a', 'aa', 'aaa', 'Hello!', '11 cats'
