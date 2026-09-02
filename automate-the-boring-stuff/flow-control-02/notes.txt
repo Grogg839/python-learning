@@ -1,0 +1,6 @@
+--------------------
+-- Boolean Values --
+--------------------
+
+While integar, floating-point and string data types have an unlimited number of possible values, the Boolean data type has only two values: True and False.
+
