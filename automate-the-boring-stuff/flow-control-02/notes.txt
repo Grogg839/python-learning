@@ -63,3 +63,16 @@ elif age < 12:
 -----------------
 -- While loops --
 -----------------
+
+Blocks of code can execute over and over again with a 'while' statement.
+
+You can stop a while loop early by using the 'break', which is added by just the workd break and that's it.
+
+The 'continue' statement can be used similarly to the break, however when the program reaches a continue statement, it jumps back to the start of the loop and re-evaluates the loop's condition.
+
+-----------------------
+-- Importing Modules --
+-----------------------
+
+
+
