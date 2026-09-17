@@ -74,5 +74,6 @@ The 'continue' statement can be used similarly to the break, however when the pr
 -- Importing Modules --
 -----------------------
 
+You should already know most things about importing modules, but you can cause a program to end early with sys.exit()
 
 
